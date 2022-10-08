@@ -8,3 +8,5 @@ Atuei como desenvolvedor back-end na CoreBiz. Desenvolvendo aplicações voltada
 <p align="left">
 <a href="https://linkedin.com/in/brnodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brnodev" height="30" width="40" /></a>
 </p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brnogit)](https://github.com/ashutosh00710/github-readme-activity-graph)
