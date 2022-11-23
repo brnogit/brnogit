@@ -8,7 +8,9 @@
 
 <hr>
 <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" /></a> <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" /></a>
 </p>
 
-<a href=""><img src="BadgeURLAqui" /></a>
+
+
+
