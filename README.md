@@ -10,7 +10,10 @@
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" /></a>
 </p>
-
+<hr>
+<p align="center">
+Olá, sou o Bruno Mota. Desenvolvedor Back-end Junior, atualmente estou aprimorando meus conhecimentos em C#, .NET e SQL Server.
+</p>
 
 
 
